@@ -18,3 +18,11 @@ This repository is mainly for me to learn how game engines work, and act as a pr
 for me to learn C++ and OpenGL. I'm not sure if I'll ever use this engine for anything
 serious, but I might use it for some small projects to get a feel for how it works before
 I move on to C++ and OpenGL.
+
+
+## Project Progress
+
+This project is `6.78%` done.
+
+<!-- Generated using https://mitchelpl.github.io/Progress-Bar-Generator/ -->
+6% █░░░░░░░░░░░░░░░░░░░░░░░░ 100%
